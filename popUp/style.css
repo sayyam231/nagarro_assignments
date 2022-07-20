@@ -1,0 +1,20 @@
+#box {
+    background-color: rgb(200, 226, 231);
+    height: 300px;
+    width: 700px;
+    visibility: hidden;
+    border-radius:25px;
+}
+
+#body {
+    background-color: rgb(7, 53, 53);
+}
+
+#box.show {
+    visibility: visible;
+}
+
+.close_popup {
+    margin-top: 1%;
+    margin-left: 97%;
+}

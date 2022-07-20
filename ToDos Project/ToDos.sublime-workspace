@@ -1,0 +1,372 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"tra",
+				"transition-delay\tproperty"
+			],
+			[
+				"me",
+				"messageDisplay"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"te",
+				"text-transform\tproperty"
+			],
+			[
+				"bac",
+				"backgroundColor"
+			],
+			[
+				"pe",
+				"pickedColor"
+			],
+			[
+				"color",
+				"colorDisplay"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"hard",
+				"hardButton"
+			],
+			[
+				"easy",
+				"easyButton"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"ge",
+				"generateRandomColors"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"colo",
+				"colorSquare"
+			],
+			[
+				"rgb",
+				"rgbColor"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"win",
+				"winningScore"
+			],
+			[
+				"wi",
+				"winningScore"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"user",
+				"userAge"
+			],
+			[
+				"use",
+				"userLastName"
+			],
+			[
+				"us",
+				"userLastName"
+			],
+			[
+				"p",
+				"px-0"
+			],
+			[
+				"cont",
+				"container-fluid"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"paddin",
+				"padding-right\tproperty"
+			],
+			[
+				"mr",
+				"margin\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/91701/Desktop/html exercises/rgb game/rgb.html",
+		"/C/Users/91701/Desktop/html exercises/rgb game/rgb.css",
+		"/C/Users/91701/Desktop/html exercises/rgb game/rgb.js",
+		"/C/Users/91701/Desktop/html exercises/score keeper/score keeper.html",
+		"/C/Users/91701/Desktop/html exercises/score keeper/score.js",
+		"/C/Users/91701/Desktop/html exercises/score keeper/score.css",
+		"/C/Users/91701/Desktop/html exercises/java Script/js2.html",
+		"/C/Users/91701/Desktop/html exercises/java Script/js1.html",
+		"/C/Users/91701/Desktop/html exercises/java Script/JAva.js",
+		"/C/Users/91701/Downloads/attachments/style.css",
+		"/C/Users/91701/Downloads/attachments/index.html",
+		"/C/Users/91701/Desktop/html exercises/Museum of candy/Museum.css",
+		"/C/Users/91701/Desktop/html exercises/Museum of candy/Museum of candy.html",
+		"/C/Users/91701/Desktop/html exercises/pattern/pattern.css",
+		"/C/Users/91701/Desktop/html exercises/pattern/pattern.html",
+		"/C/Users/91701/Desktop/html exercises/bootstrap 4/2.html",
+		"/C/Users/91701/Desktop/html exercises/image portfolio/photo.css",
+		"/C/Users/91701/Desktop/html exercises/image portfolio/photogrif.html",
+		"/C/Users/91701/Desktop/html exercises/bootstrap1/navbar.html",
+		"/C/Users/91701/Desktop/html exercises/bootstrap1/basics.html",
+		"/C/Users/91701/Desktop/html exercises/bootstrap1/bootstrap.css",
+		"/C/Users/91701/Desktop/html exercises/blog/Blog.css",
+		"/C/Users/91701/Desktop/html exercises/blog/blog.html",
+		"/D/[FreeTutorials.Eu] Udemy - The Web Developer Bootcamp/6. Intermediate CSS/10.1 07 Image Blog 1/07_ImageBlog1/imageLinks.html",
+		"/C/Users/91701/Desktop/tic tac toe/tic.html",
+		"/C/Users/91701/Desktop/tic tac toe/tic.css",
+		"/C/Users/91701/Desktop/test1/selectorsExercise.html",
+		"/C/Users/91701/Desktop/test1/selectors.css",
+		"/D/[FreeTutorials.Eu] Udemy - The Web Developer Bootcamp/5. Introduction to CSS/14.1 09_Selector_Exercise_Starter.zip.zip",
+		"/C/Users/91701/Desktop/sample.html",
+		"/C/Users/91701/Desktop/2.html",
+		"/C/Users/91701/Desktop/c.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ToDos.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\91701\\Desktop\\html exercises\\ToDos Project\\ToDos.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

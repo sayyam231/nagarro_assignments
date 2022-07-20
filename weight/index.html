@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.0.js"
+        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style.css">
+
+    <title>Weight Convertor</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            min-height: 100vh;
+            background-repeat: no-repeat;
+        }
+
+        h1 {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        .card {
+            padding: 1rem;
+            border-radius: 2rem;
+            background-color: antiquewhite;
+        }
+    </style>
+</head>
+
+<body class=" bg-gradient-to-r from-teal-900 to-cyan-600">
+    <h1 style="text-align:center;" class="font-monospace text-bg-dark">Weight Converter</h1>
+    <div class="container">
+        <div class="card" style="width: 18rem;margin-left: auto;margin-right: auto;
+        margin-top: 50px; border: 2px solid rgb(0, 0, 0);">
+            <img style="height: 15rem; width:15rem"
+                src="https://media.istockphoto.com/vectors/libra-isolated-on-white-background-vector-id951722782?k=20&m=951722782&s=612x612&w=0&h=E4wg3tP6IfFkPcVrGHwJ_oR_tnKhQi6q2XM8r6JJsD0="
+                alt="image" class="rounded-xl shadow-lg">
+            <div class="card-body">
+                <h5 class="card-title">
+                    <label for="gram">Wt in gram</label>
+                    <input style="padding:10px 3px ;" type="text" name="grams" id="input"
+                        placeholder="Enter weight in Grams" value="">
+                </h5>
+
+                <div href="#" class="btn btn-primary" onclick="convert()">convert</div>
+            </div>
+            <p id="result" style="text-align: center; color:#000428">Wt in Kgs</p>
+        </div>
+    </div>
+
+
+    <script>
+
+        function convert() {
+            let gm = document.getElementById("input").value;
+            
+            document.getElementById("result").innerHTML = gm / 1000+ " Kilograms";
+        }
+    </script>
+
+</body>
+
+</html>
